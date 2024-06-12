@@ -1,8 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kashish Mahajan</h1>
 <h3 align="center">I'm a passionate technologist. My journey has been driven by a curiosity to explore how these fields can intersect to create innovative solutions for real-world problems. I love collaborating on cutting-edge projects and continuously learning new skills to stay at the forefront of technology.</h3>
-<p align="center">
-  <img src="[https://yourimageurl.com/header.png" alt="Header Image](https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif)">
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashish445" alt="kashish445" /></a> </p>
 
