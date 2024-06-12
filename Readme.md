@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kashish Mahajan</h1>
 <h3 align="center">I'm a passionate technologist. My journey has been driven by a curiosity to explore how these fields can intersect to create innovative solutions for real-world problems. I love collaborating on cutting-edge projects and continuously learning new skills to stay at the forefront of technology.</h3>
-
+![Header]([https://yourimageurl.com/header.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fsoftware-engineering-gifs&psig=AOvVaw2ne9CQ2LlsX1JVJCMNnXIk&ust=1718274121606000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjP34_s1YYDFQAAAAAdAAAAABAJ))
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashish445" alt="kashish445" /></a> </p>
 
 - 🔭 I’m currently working on **Advanced **Deep Learning** techniques**
